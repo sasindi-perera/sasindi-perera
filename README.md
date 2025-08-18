@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisalka Sasindi</h1>
-<h3 align="center">I am currently learning BSc. Honours Computing & Information System</h3>
+<h3 align="center">I am currently learning BSc. Hons Computing & Information System</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
