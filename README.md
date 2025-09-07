@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisalka Sasindi</h1>
 <h3 align="center">I am currently learning BSc. Hons Computing & Information System</h3>
----
+- - -
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sasindi perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasindi perera" height="30" width="40" /></a>
