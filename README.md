@@ -76,107 +76,6 @@ IT Undergraduate | Aspiring QA Engineer
 
 ---
 
-# 🚀 QA Projects
-
-## 1. 🧪 SauceDemo – Manual Testing Project
-
-**Type:** Manual Testing
-
-**Application:** SauceDemo
-
-### Testing Activities
-
-- Requirement Analysis
-- Test Scenario Creation
-- Test Case Design
-- Test Data Preparation
-- Functional Testing
-- Negative Testing
-- Regression Testing
-- Test Execution
-- Defect Identification
-- Test Result Documentation
-
-### Test Modules
-
-- Login
-- Products
-- Cart
-- Checkout
-
-🔗 **Repository:**  
-[Add your SauceDemo repository link here]
-
----
-
-## 2. 🤖 Web Automation Testing Project
-
-**Type:** Automation Testing
-
-**Tools:**
-
-- Java
-- Playwright
-- JUnit 5
-- Maven
-- Page Object Model
-- Git
-- GitHub
-
-### Automation Activities
-
-- Automated UI Test Cases
-- Login Testing
-- Functional Testing
-- Page Object Model
-- Test Execution
-- Test Reports
-
-🔗 **Repository:**  
-[Add your Automation Testing repository link here]
-
----
-
-## 3. 🔗 API Testing Project
-
-**Type:** API Testing
-
-**Tool:** Postman
-
-### Testing Activities
-
-- API Request Testing
-- GET Request Testing
-- POST Request Testing
-- PUT Request Testing
-- DELETE Request Testing
-- Status Code Validation
-- Response Validation
-- Negative API Testing
-- API Test Collections
-
-🔗 **Repository:**  
-[Add your API Testing repository link here]
-
----
-
-## 4. ⚙️ CI/CD Testing with GitHub Actions
-
-I am also working on integrating automated tests with **GitHub Actions**.
-
-### CI/CD Activities
-
-- Automated test execution
-- GitHub Actions workflow
-- Build verification
-- Test execution on code push
-- Automated testing in CI pipeline
-
-🔗 **Repository:**  
-[Add your CI/CD repository link here]
-
----
-
 # 🛠️ QA Tools & Technologies
 
 <p align="left">
@@ -293,7 +192,7 @@ I am also working on integrating automated tests with **GitHub Actions**.
 
 <p align="left">
 
-<a href="https://linkedin.com/in/sasindi-perera" target="_blank">
+<a href="www.linkedin.com/in/sasindi-perera-" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
