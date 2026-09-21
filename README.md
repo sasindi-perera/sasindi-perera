@@ -6,18 +6,25 @@
   <b>Manual Testing • Automation Testing • API Testing • CI/CD</b>
 </p>
 
+---
+
+## 🌐 Connect & Links
+
 <p align="center">
+  <a href="https://sasindi-perera.github.io/portfolio/dark.html" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Site-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/sasindi-perera-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Sasindi_Perera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/sasindi-perera" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-sasindi--perera-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.kaggle.com/nisalkasasindi" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle-nisalkasasindi-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="https://medium.com/@sasindiperera2022" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Medium-@sasindiperera2022-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
 
@@ -61,31 +68,17 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasindi-perera&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasindi-perera&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sasindi-perera&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasindi-perera&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindi-perera&theme=tokyonight&hide_border=true&layout=compact&hide_progress=false" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindi-perera&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages" />
 </p>
 
 ---
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sasindi-perera-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sasindi%20Perera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/nisalkasasindi" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-nisalkasasindi-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@sasindiperera2022" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-sasindiperera2022-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-</p>
 
 <p align="center">
   <b>✨ Building quality through testing, automation, and continuous learning.</b>
