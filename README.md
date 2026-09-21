@@ -192,7 +192,10 @@ IT Undergraduate | Aspiring QA Engineer
 
 <p align="left">
 
-<a href="www.linkedin.com/in/sasindi-perera-" target="_blank">
+<a href="www.linkedin.com/in/
+sasindi-perera-
+Vanity URL name
+" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
